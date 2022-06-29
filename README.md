@@ -16,7 +16,7 @@ Brief summary about the project, example: This is a minimalist template for "REA
 
 ![lorem_picsum](https://user-images.githubusercontent.com/59848966/176330785-9219dd85-9545-4e01-84f5-6c8dd57770ef.png)
 
-link: link: wwww.link_to_access_the_prototype.com;
+link: wwww.link_to_access_the_prototype.com;
 
 * Result:
 
