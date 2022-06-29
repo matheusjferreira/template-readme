@@ -42,7 +42,7 @@ link: wwww.link_to_access_the_prototype.com;
     ................├─ file.extension
     ................└─ file.extension
     ............└─ file.extension
-    ....├─ dir
+    ....└─ dir
     ........└─ widgets
 
 > ## Endpoint:
