@@ -1,4 +1,4 @@
-> # README Template
+> # README Minimalist Template
 
 >:warning: First of all, if you have an important notice, write it here.
 
